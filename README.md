@@ -1,2 +1,2 @@
-# koo-yeong-beom
+# Today's Plan Mangement System
 Today's Plan Mangement System
